@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "name": "maryam24-cli-word-counter",
+  "version": "1.0.9",
+  "main": "index.js",
+  "type": "module",
+  "types": "inquirer",
+  "bin": "wordcounter.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
